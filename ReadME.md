@@ -1,13 +1,13 @@
 ## TypeScript Tutorial Code
 
 Made when watching
-[Youtube TypeScript Tutorial](https://www.youtube.com/watch?v=r8G7-hQG07o&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=19) from Net Ninja
+[Youtube TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) from Net Ninja
 
 [GitHub Course Files](https://github.com/iamshaunjp/typescript-tutorial)
 
 [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
-### Prerequisite
+### Prerequisite to learning Typescript
 
 1. [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 2. [Modern JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
@@ -35,3 +35,19 @@ Made when watching
 19. Enums
 20. Tuples
 21. Wrap Up
+
+## Steps to run the tutorial code
+
+### Prerequisites
+
+1. [Node.JS](https://nodejs.org/en/) Download and install in windows on linux/mac see option 3 Node version Manager in this [article](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+2. [TypeScript](https://www.typescriptlang.org/) Run in a terminal `npm install -g typescript`
+
+### Running the code
+
+3. After installing the above you can download the code as a zip or using `git clone https://github.com/RevantCI/typescript.git`
+4. Either deploy it in a web server or use a plugin like [VS Code Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to deploy the index.html file in the public folder
+5. To modify and compile the ts files use `tsc -w` in a terminal in the project folder, this will automatically watch for file changes to the .ts files and automatically compile them.
+
+See Typescript Tutorial videos [1](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=1),2 & 7 for detailed setup steps
+See Typescript Tutorial videos [1](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=1),[2](https://www.youtube.com/watch?v=iTZ1-85I77c&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=2) & [7](https://www.youtube.com/watch?v=Y4IiQY9dNRA&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=7) for detailed setup and compiling steps
