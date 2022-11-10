@@ -49,5 +49,4 @@ Made when watching
 4. Either deploy it in a web server or use a plugin like [VS Code Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to deploy the index.html file in the public folder
 5. To modify and compile the ts files use `tsc -w` in a terminal in the project folder, this will automatically watch for file changes to the .ts files and automatically compile them.
 
-See Typescript Tutorial videos [1](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=1),2 & 7 for detailed setup steps
 See Typescript Tutorial videos [1](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=1),[2](https://www.youtube.com/watch?v=iTZ1-85I77c&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=2) & [7](https://www.youtube.com/watch?v=Y4IiQY9dNRA&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=7) for detailed setup and compiling steps
